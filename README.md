@@ -1,1 +1,4 @@
-# Employee Wage Computation Program
+# EmpWageComputation
+Solving using
+Switch Case
+Statement
