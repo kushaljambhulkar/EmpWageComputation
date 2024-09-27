@@ -1,1 +1,3 @@
-# Employee Wage Computation Program
+# EmpWageComputation
+Calculate Daily
+Employee Wage 
