@@ -1,1 +1,3 @@
-# Employee Wage Computation Program
+# EmpWageComputation
+Calculating Wages
+for a Month
